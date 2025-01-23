@@ -40,10 +40,6 @@ A Python-based music bot that integrates Spotify playback with a TeamSpeak 3 ser
     - Set the redirect URI to `http://localhost:8888/callback`.
 
 4. Configure the bot:
-
-    - Open `config.json` and update the following fields:
-
-      ```json
       {
           "spotify": {
               "client_id": "your_spotify_client_id",
@@ -61,14 +57,12 @@ A Python-based music bot that integrates Spotify playback with a TeamSpeak 3 ser
               "channel_id": 1
           }
       }
-      ```
-
 ## Usage
 
 1. Start the bot:
 
     ```bash
-    python main.py
+    python bot.py
     ```
 
 2. Use the following commands in TeamSpeak:
