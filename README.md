@@ -23,7 +23,7 @@ A Python-based music bot that integrates Spotify playback with a TeamSpeak 3 ser
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/spotify-teamspeak-bot.git
+    git clone https://github.com/n3ybr/spotify-teamspeak-bot.git
     cd spotify-teamspeak-bot
     ```
 
